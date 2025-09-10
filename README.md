@@ -92,5 +92,5 @@ cockpit-eval-tool/
 
 ## Notes
 
-- The detection/evaluation logic is **placeholder**—you can gradually replace the stub functions with real algorithms.
-- The `laws/law_definitions.yaml` file is where you define your **29 laws** (22 with rules now). Each law can specify ranges or thresholds per element type.
+- The detection/evaluation logic is **placeholder**—that is gradually replaced with real algorithms.
+- The `laws/law_definitions.yaml` file is where the **29 laws** is defined (22 with rules now). Each law has specific ranges or thresholds.
