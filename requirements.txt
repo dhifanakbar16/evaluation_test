@@ -1,0 +1,14 @@
+
+opencv-python
+pytesseract
+numpy
+pandas
+Pillow
+scikit-image
+matplotlib
+pyyaml
+imutils
+streamlit
+fastapi
+uvicorn
+pyinstaller
