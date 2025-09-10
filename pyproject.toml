@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 name = "cockpit-eval"
 version = "0.1.0"
 description = "Cockpit display evaluation tool (scaffold)"
-authors = [{name="Your Name"}]
+authors = [{name="Dhifan Kemal Akbar"}]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
